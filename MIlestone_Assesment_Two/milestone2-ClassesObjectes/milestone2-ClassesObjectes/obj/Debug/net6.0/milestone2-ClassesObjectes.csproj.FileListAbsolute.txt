@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\bin\Debug\net6.0\milestone2-ClassesObjectes.exe
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\bin\Debug\net6.0\milestone2-ClassesObjectes.deps.json
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\bin\Debug\net6.0\milestone2-ClassesObjectes.runtimeconfig.json
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\bin\Debug\net6.0\milestone2-ClassesObjectes.dll
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\bin\Debug\net6.0\milestone2-ClassesObjectes.pdb
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\milestone2-ClassesObjectes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\milestone2-ClassesObjectes.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\milestone2-ClassesObjectes.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\milestone2-ClassesObjectes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\milestone2-ClassesObjectes.dll
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\refint\milestone2-ClassesObjectes.dll
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\milestone2-ClassesObjectes.pdb
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\milestone2-ClassesObjectes.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\milestone2-ClassesObjectes\milestone2-ClassesObjectes\obj\Debug\net6.0\ref\milestone2-ClassesObjectes.dll
