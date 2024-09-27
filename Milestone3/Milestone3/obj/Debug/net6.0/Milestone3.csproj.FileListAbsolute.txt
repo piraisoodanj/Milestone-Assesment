@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\bin\Debug\net6.0\Milestone3.exe
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\bin\Debug\net6.0\Milestone3.deps.json
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\bin\Debug\net6.0\Milestone3.runtimeconfig.json
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\bin\Debug\net6.0\Milestone3.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\bin\Debug\net6.0\Milestone3.pdb
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\Milestone3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\Milestone3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\Milestone3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\Milestone3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\Milestone3.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\refint\Milestone3.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\Milestone3.pdb
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\Milestone3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Milestone3\Milestone3\obj\Debug\net6.0\ref\Milestone3.dll
