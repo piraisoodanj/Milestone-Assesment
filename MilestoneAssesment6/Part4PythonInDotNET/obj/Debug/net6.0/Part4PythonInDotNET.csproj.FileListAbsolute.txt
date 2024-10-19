@@ -1,0 +1,42 @@
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.exe
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.deps.json
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.runtimeconfig.json
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.dll
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.pdb
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.AssemblyInfoInputs.cache
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.AssemblyInfo.cs
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.csproj.CoreCompileInputs.cache
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.dll
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\refint\Part4PythonInDotNET.dll
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.pdb
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.genruntimeconfig.cache
+C:\Sam\Custom C#\Assesment6\Part4PythonInDotNET\obj\Debug\net6.0\ref\Part4PythonInDotNET.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\refint\Part4PythonInDotNET.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\ref\Part4PythonInDotNET.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.exe
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.deps.json
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\bin\Debug\net6.0\Part4PythonInDotNET.pdb
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\refint\Part4PythonInDotNET.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.pdb
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\Part4PythonInDotNET.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part4PythonInDotNET\obj\Debug\net6.0\ref\Part4PythonInDotNET.dll

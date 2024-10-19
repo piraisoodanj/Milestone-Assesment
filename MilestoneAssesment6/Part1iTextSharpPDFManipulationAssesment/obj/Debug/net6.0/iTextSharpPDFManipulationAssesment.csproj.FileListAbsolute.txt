@@ -1,0 +1,36 @@
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.exe
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.deps.json
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.runtimeconfig.json
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.dll
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.pdb
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\itextsharp.dll
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.csproj.AssemblyReference.cache
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.AssemblyInfoInputs.cache
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.AssemblyInfo.cs
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.csproj.CoreCompileInputs.cache
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.csproj.CopyComplete
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.dll
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\refint\iTextSharpPDFManipulationAssesment.dll
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.pdb
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.genruntimeconfig.cache
+C:\Sam\Custom C#\Assesment6\iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\ref\iTextSharpPDFManipulationAssesment.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.exe
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.deps.json
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\iTextSharpPDFManipulationAssesment.pdb
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\bin\Debug\net6.0\itextsharp.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\refint\iTextSharpPDFManipulationAssesment.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.pdb
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\iTextSharpPDFManipulationAssesment.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part1iTextSharpPDFManipulationAssesment\obj\Debug\net6.0\ref\iTextSharpPDFManipulationAssesment.dll

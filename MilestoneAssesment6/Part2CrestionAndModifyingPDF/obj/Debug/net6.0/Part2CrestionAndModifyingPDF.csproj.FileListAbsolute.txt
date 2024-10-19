@@ -1,0 +1,36 @@
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.exe
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.deps.json
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.runtimeconfig.json
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.dll
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.pdb
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\itextsharp.dll
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.csproj.AssemblyReference.cache
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.AssemblyInfoInputs.cache
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.AssemblyInfo.cs
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.csproj.CoreCompileInputs.cache
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.csproj.CopyComplete
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.dll
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\refint\Part2CrestionAndModifyingPDF.dll
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.pdb
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.genruntimeconfig.cache
+C:\Sam\Custom C#\Assesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\ref\Part2CrestionAndModifyingPDF.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.exe
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.deps.json
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\Part2CrestionAndModifyingPDF.pdb
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\bin\Debug\net6.0\itextsharp.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\refint\Part2CrestionAndModifyingPDF.dll
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.pdb
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\Part2CrestionAndModifyingPDF.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#_Assesment\Milestone-Assesment\MilestoneAssesment6\Part2CrestionAndModifyingPDF\obj\Debug\net6.0\ref\Part2CrestionAndModifyingPDF.dll

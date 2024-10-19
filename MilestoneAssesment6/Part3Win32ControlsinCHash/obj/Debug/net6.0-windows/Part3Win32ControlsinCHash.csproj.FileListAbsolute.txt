@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.Form1.resources
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\bin\Debug\net6.0-windows\Part3Win32ControlsinCHash.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\bin\Debug\net6.0-windows\Part3Win32ControlsinCHash.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\bin\Debug\net6.0-windows\Part3Win32ControlsinCHash.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\bin\Debug\net6.0-windows\Part3Win32ControlsinCHash.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\bin\Debug\net6.0-windows\Part3Win32ControlsinCHash.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\refint\Part3Win32ControlsinCHash.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\Part3Win32ControlsinCHash.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment6\Part3Win32ControlsinCHash\obj\Debug\net6.0-windows\ref\Part3Win32ControlsinCHash.dll
