@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rT0gifC3tnBR57Hm+8l0qx0Vf1zLpHpHHDUGVZL3cVJ5HYRirPwmHNQ0fco+bx79IqvjvLhWQrUl1P8XxOPOQw==",
+  "success": true,
+  "projectFilePath": "C:\\Sam\\Custom C#\\MilestoneAssesment7\\Q5_FetchSharePointList\\Q5_FetchSharePointList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\aqua-core\\5.4.1\\aqua-core.5.4.1.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\aqua-core-newtonsoft-json\\5.4.1\\aqua-core-newtonsoft-json.5.4.1.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\microsoft.identity.client\\4.66.1\\microsoft.identity.client.4.66.1.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\remote.linq\\7.3.0-alpha-002\\remote.linq.7.3.0-alpha-002.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\remote.linq.newtonsoft.json\\7.3.0-alpha-002\\remote.linq.newtonsoft.json.7.3.0-alpha-002.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

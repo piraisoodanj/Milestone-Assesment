@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zY2hn6etHCIMdG7hr1q7XgF2Gdk6+ApTxznbvR98BLTQoNWXiyZUXr5AfNcBLZNcE5s2JY1Es0yL/Dz40rV0Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Sam\\Custom C#\\MilestoneAssesment7\\Q8_LoggingUsingLog4net\\Q8_LoggingUsingLog4net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\log4net\\3.0.2\\log4net.3.0.2.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\ThomasAbrahamS\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

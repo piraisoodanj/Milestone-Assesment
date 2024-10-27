@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nc7COwIc63QWdOXBJR0d+wmmVTIeBdqrCotzJg98QNTNe1mZHzElQENtkn9nu/JXTE0mzS2+XVHcmPq7si/mqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\C#_Assesment\\Milestone-Assesment\\Assesment7\\Q2_SharePointFileUpload\\Q2_SharePointFileUpload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.identity.client\\4.66.1\\microsoft.identity.client.4.66.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.25311.12000\\microsoft.sharepointonline.csom.16.1.25311.12000.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

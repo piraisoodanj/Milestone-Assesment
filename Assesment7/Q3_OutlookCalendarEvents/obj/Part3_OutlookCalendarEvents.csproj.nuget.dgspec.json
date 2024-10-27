@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sangeeth\\Traning\\MilestoneAssesment7\\Part3_OutlookCalendarEvents\\Part3_OutlookCalendarEvents.csproj": {}
+  },
+  "projects": {
+    "C:\\Sangeeth\\Traning\\MilestoneAssesment7\\Part3_OutlookCalendarEvents\\Part3_OutlookCalendarEvents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sangeeth\\Traning\\MilestoneAssesment7\\Part3_OutlookCalendarEvents\\Part3_OutlookCalendarEvents.csproj",
+        "projectName": "Part3_OutlookCalendarEvents",
+        "projectPath": "C:\\Sangeeth\\Traning\\MilestoneAssesment7\\Part3_OutlookCalendarEvents\\Part3_OutlookCalendarEvents.csproj",
+        "packagesPath": "C:\\Users\\SudhakaranSa\\.nuget\\packages\\",
+        "outputPath": "C:\\Sangeeth\\Traning\\MilestoneAssesment7\\Part3_OutlookCalendarEvents\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SudhakaranSa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Office.Interop.Outlook": {
+              "target": "Package",
+              "version": "[15.0.4797.1004, )"
+            },
+            "MicrosoftOfficeCore": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
