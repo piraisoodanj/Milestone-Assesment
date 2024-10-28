@@ -1,0 +1,6 @@
+{
+          "reviews": [
+            { "restaurant": "Pizza Place", "review": "Great pizza!", "rating": 5 },
+            { "restaurant": "Pasta House", "review": "Too salty.", "rating": 2 }
+          ]
+        }

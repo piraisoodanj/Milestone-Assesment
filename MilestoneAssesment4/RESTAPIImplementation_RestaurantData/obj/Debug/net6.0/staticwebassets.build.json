@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kHgnzlrFuSRenWq4Tp5ubYPXetTLIAu6WY7a2k8kxfU=",
+  "Source": "RESTAPIImplementation_RestaurantData",
+  "BasePath": "_content/RESTAPIImplementation_RestaurantData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

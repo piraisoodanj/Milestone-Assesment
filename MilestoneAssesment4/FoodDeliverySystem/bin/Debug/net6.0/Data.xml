@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<restaurants>
+  <restaurant>
+    <name>Dominos</name>
+    <address>Trivandum Street1</address>
+    <rating>4.2</rating>
+  </restaurant>
+  <restaurant>
+    <name>KFC</name>
+    <address>Eranakulam 20 west</address>
+    <rating>4.5</rating>
+  </restaurant>
+</restaurants>
